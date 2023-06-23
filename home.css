@@ -1,0 +1,24 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: repeating-linear-gradient(white, cyan);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    background-image: url("https://thumbs.gfycat.com/AdmirableExhaustedIchidna-size_restricted.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 99%;
+}
+
+.top {
+    color: honeydew;
+    text-align: center;
+    padding-top: 300px;
+}
+
+.top h1 {
+    font-size: 100px;
+}
